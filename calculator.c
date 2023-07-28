@@ -8,7 +8,7 @@ int main()
     printf("Enter the first number: ");
     scanf("%d", &num1);
 
-    printf("Enter the operation: ");
+    printf("Enter the operation(+ . - . * . %): ");
     scanf(" %c", &operator);
 
     printf("Enter the second number: ");
